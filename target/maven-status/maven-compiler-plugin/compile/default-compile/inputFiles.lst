@@ -1,0 +1,14 @@
+/home/asspro/IdeaProjects/demo/src/main/java/com/example/chatapp/demo/ChatApplication.java
+/home/asspro/IdeaProjects/demo/src/main/java/com/example/chatapp/demo/client/ChatClient.java
+/home/asspro/IdeaProjects/demo/src/main/java/com/example/chatapp/demo/client/ChatController.java
+/home/asspro/IdeaProjects/demo/src/main/java/com/example/chatapp/demo/client/LoginController.java
+/home/asspro/IdeaProjects/demo/src/main/java/com/example/chatapp/demo/entities/Membre.java
+/home/asspro/IdeaProjects/demo/src/main/java/com/example/chatapp/demo/entities/Message.java
+/home/asspro/IdeaProjects/demo/src/main/java/com/example/chatapp/demo/repositories/MembreRepository.java
+/home/asspro/IdeaProjects/demo/src/main/java/com/example/chatapp/demo/repositories/MessageRepository.java
+/home/asspro/IdeaProjects/demo/src/main/java/com/example/chatapp/demo/server/ClientHandler.java
+/home/asspro/IdeaProjects/demo/src/main/java/com/example/chatapp/demo/server/Server.java
+/home/asspro/IdeaProjects/demo/src/main/java/com/example/chatapp/demo/services/ChatService.java
+/home/asspro/IdeaProjects/demo/src/main/java/com/example/chatapp/demo/util/DatabaseMigrationUtil.java
+/home/asspro/IdeaProjects/demo/src/main/java/com/example/chatapp/demo/util/JpaManager.java
+/home/asspro/IdeaProjects/demo/src/main/java/module-info.java

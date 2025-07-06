@@ -1,0 +1,39 @@
+.list-cell:filled:selected:focused, .list-cell:filled:selected {
+    -fx-background-color: lightgray;
+    background-color: lightgray;
+    -fx-text-fill: black;
+}
+
+.list-view {
+    -fx-background-insets: 0;
+    -fx-padding: 0;
+    padding: 0;
+}
+
+.message-bubble-sent {
+    -fx-background-color: #DCF8C6; /* Light green for sent messages */
+    background-color: #DCF8C6;
+    -fx-background-radius: 15;
+    -fx-padding: 10px;
+    padding: 10px;
+}
+
+.message-bubble-received {
+    -fx-background-color: #FFFFFF; /* White for received messages */
+    background-color: #FFFFFF;
+    -fx-border-color: #E0E0E0;
+    border-color: #E0E0E0;
+    -fx-border-width: 1px;
+    border-width: 1px;
+    -fx-background-radius: 15;
+    -fx-border-radius: 15;
+    border-radius: 15px;
+    -fx-padding: 10px;
+    padding: 10px;
+}
+
+.avatar-circle {
+    -fx-border-radius: 50%;
+    border-radius: 50%;
+    -fx-background-radius: 50%;
+}

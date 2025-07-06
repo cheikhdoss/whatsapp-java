@@ -1,0 +1,9 @@
+com/example/chatapp/demo/repositories/MessageRepository.class
+com/example/chatapp/demo/repositories/MembreRepository.class
+com/example/chatapp/demo/client/LoginController.class
+com/example/chatapp/demo/client/ChatController.class
+module-info.class
+com/example/chatapp/demo/ChatApplication.class
+com/example/chatapp/demo/client/ChatClient.class
+com/example/chatapp/demo/entities/Membre.class
+com/example/chatapp/demo/entities/Message.class
